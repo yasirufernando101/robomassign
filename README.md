@@ -8,7 +8,7 @@ The tutorial will be a combination of online and offline, please make sure you h
 |9.22 - 10.5         | Finish all Git&C++ videos and finish environment set up |
 |**10.2 15:30-17:30**    | Offline session 1: Git&C++ |
 |10.6 - 10.12        | Finish Embedded video 1 (set up environment and GPIO) |
-|**Before 10.8 23:59  **| DDL of your C++ assignment |
+|**Before 10.8 23:59**| DDL of your C++ assignment |
 |**10.9 15:30-17:30**    | Offline session 2: Embedded: GPIO |
 |10.13 - 10.19       | Finish Embedded video 2 (CAN & USART) |
 |**10.16 15:30-17:30**   | Offline session 3: Embedded: USART |
