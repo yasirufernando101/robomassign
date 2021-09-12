@@ -8,13 +8,14 @@ The tutorial will be a combination of online and offline, please make sure you h
 |9.22 - 10.5         | Finish all Git&C++ videos and finish environment set up |
 |**10.2 15:30-17:30**    | Offline session 1: Git&C++ |
 |10.6 - 10.12        | Finish Embedded video 1 (set up environment and GPIO) |
+|**Before 10.8 23:59  **| DDL of your C++ assignment |
 |**10.9 15:30-17:30**    | Offline session 2: Embedded: GPIO |
 |10.13 - 10.19       | Finish Embedded video 2 (CAN & USART) |
 |**10.16 15:30-17:30**   | Offline session 3: Embedded: USART |
 |10.20 - 10.26       | Finish Embedded video 3 (PID) |
 |**10.23 13:00-15:00**   | Offline session 4: Embedded: Turn On Motor |
-|Before 10.26 23:59  | DDL of your C++ assignment |
-|Before 11.15 23:59  | DDL of your Embedded demo assignment |
+|**Before 10.26 23:59**  | DDL of your Embedded demo assignment |   
+
 ## Tutorial Resources
 1. Online videos and PPT  
     [Google Drive](https://drive.google.com/drive/folders/1lGf8AZShQ3wCznJ_vuuH737vT_mro6HN?usp=sharing)    
