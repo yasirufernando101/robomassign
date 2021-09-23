@@ -23,6 +23,7 @@ The tutorial will be a combination of online and offline, please make sure you h
 2. [Assignment Repo](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments)
 3. Notice Board: All the update of videos and assignments will be put [here](https://shimo.im/docs/loqeWQjRlJSBV8An/)  
 4. Contact Us: In the WeChat/Whatsapp group
+
 ## Assignment format
 **Git**:  
 Please refer to Assignment0 and please finish it first.  
@@ -30,9 +31,17 @@ Please refer to Assignment0 and please finish it first.
 The homework will be divided into two parts, review questions and programming exercises. For the review questions for each assignment, please complete them in a text document. The programming exercise template has been provided, you can edit it directly in the file.  
 **Embedded**:  
 After completing the code, you can contact any TA for demo. Also remember to update your code in GitHub, we also need to check that.  
+
 ## Grading scheme  
 |    Item     |  Percentage  |
 |  ----  | ----  |
 |  Assignment   | 40%  |
 |  Competition  | 60%  |
-**NOTE: You must complete all C++&Git homework to participate in the competition**
+
+**NOTE: The quality of your C++ assignment will determine whether you can participate in the internal competition or not**
+
+## Special Arrangement for online student
+1. Online students refer to students who are unable to participate in offline tutorial and internal competition but will return to Hong Kong before/at winter semester
+2. If you can not come to HK until spring sem, unfortunately, we are unable to offer you a place in the RoboMaster team this season. We would be happy to see you again in next year's recruitment if you can come back to HK.
+3. For online students, please follow all the tutorials and assignments. For assignments that need to demo, if you can’t get the corresponding development kits, please contact us after you have finish coding. We will help to debug and pass the demo.
+4. Since you cannot join the internal competition, the winter semester will be your probation period, and your performance during this period will determine whether you can become a full-fledged team member
