@@ -39,10 +39,11 @@ If failed, please go through the following link and try again
     ![](../imgs/git7.png)  
 2. Clone your own repo to local (or download zip)
 3. Fill in your infomation in the README.md in root path
-4. **Add the following TAs as a collaborator**:
+4. **Add the following TAs as a collaborator (IMOPRTANT!!!)**:
     - [Zhang-JK](https://github.com/Zhang-JK)
     - [CHENGEZ](https://github.com/CHENGEZ)
     - [IKEMURA, Kei](https://github.com/Ikemura-kei)
+    ![](../imgs/git8.png)
 ## commit and push
 
 - You need to submit all you code on github, and we will grade it.
