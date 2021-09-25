@@ -16,6 +16,9 @@ The tutorial will be a combination of online and offline, please make sure you h
 |**10.23 13:00-15:00**   | Offline session 4: Embedded: Turn On Motor |
 |**Before 10.26 23:59**  | DDL of your Embedded demo assignment |   
 
+## Update Notes
+9.25: Update environment set up and zoom QA session
+
 ## Tutorial Resources
 1. Online videos and PPT  
     [Google Drive](https://drive.google.com/drive/folders/1lGf8AZShQ3wCznJ_vuuH737vT_mro6HN?usp=sharing)    
@@ -23,6 +26,9 @@ The tutorial will be a combination of online and offline, please make sure you h
 2. [Assignment Repo](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments)
 3. Notice Board: All the update of videos and assignments will be put [here](https://shimo.im/docs/loqeWQjRlJSBV8An/)  
 4. Contact Us: In the WeChat/Whatsapp group
+
+## Zoom QA session
+Use [this link](https://hkust.zoom.com.cn/j/5741479064) to join, for every Tuesday, Thursday, and Saturday from 8pm to 9pm.
 
 ## Assignment format
 **Git**:  
