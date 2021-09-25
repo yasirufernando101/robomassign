@@ -2,7 +2,7 @@
 The embedded coaching will be from 9.22 to 10.23, after which everyone will have an intra-team competition. We will use your homework grade and competition results as the assessment criteria for joining the team.   
 The tutorial will be a combination of online and offline, please make sure you have understood the knowledge in the online video before taking the offline sessions. The online video mainly teaches the required knowledge, and the offline course will be homework guidance and QA.
 
-## You can add your personal info here
+## You can add your personal info here (name, itsc email and student ID)
 
 ## Tutorial timeline
 |  Date/Time         | Things you need to do  |
