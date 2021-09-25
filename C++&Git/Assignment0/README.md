@@ -38,7 +38,7 @@ If failed, please go through the following link and try again
     ![](../imgs/git6.png)  
     ![](../imgs/git7.png)  
 2. Clone your own repo to local (or download zip)
-3. Fill in your infomation in the README.md in root path
+3. Fill in your infomation(name, itsc email and student ID) in the README.md in root path
 4. **Add the following TAs as a collaborator (IMOPRTANT!!!)**:
     - [Zhang-JK](https://github.com/Zhang-JK)
     - [CHENGEZ](https://github.com/CHENGEZ)
