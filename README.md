@@ -2,6 +2,8 @@
 The embedded coaching will be from 9.22 to 10.23, after which everyone will have an intra-team competition. We will use your homework grade and competition results as the assessment criteria for joining the team.   
 The tutorial will be a combination of online and offline, please make sure you have understood the knowledge in the online video before taking the offline sessions. The online video mainly teaches the required knowledge, and the offline course will be homework guidance and QA.
 
+## You can add your personal info here
+
 ## Tutorial timeline
 |  Date/Time         | Things you need to do  |
 |  ----  | ----  |
@@ -24,7 +26,7 @@ The tutorial will be a combination of online and offline, please make sure you h
     [Google Drive](https://drive.google.com/drive/folders/1lGf8AZShQ3wCznJ_vuuH737vT_mro6HN?usp=sharing)    
     [OneDrive](https://hkustconnect-my.sharepoint.com/:f:/g/personal/ychengbt_connect_ust_hk/EhzVJ9SPxy1JgIA3J0LtiLABZoklW33EWMaTbPl4m6Jv4w?e=p1fw4j)  
 2. [Assignment Repo](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments)
-3. Notice Board: All the update of videos and assignments will be put [here](https://shimo.im/docs/loqeWQjRlJSBV8An/)  
+3. QA Page, in [this link](https://docs.google.com/document/d/1FTec5ciY7HCyUEiDUB_Cz2C6FzZvv20FzVZddaGbaN4/edit?usp=drivesdk) we will collect your common problems, you may check it often
 4. Contact Us: In the WeChat/Whatsapp group
 
 ## Zoom QA session
