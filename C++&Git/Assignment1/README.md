@@ -22,7 +22,7 @@ Before doing this assignment, you should already know the following things:
 2. What is the difference between the following values (What is their default type in C++)  
    2022 2022L 2022.0 2022.0f
 
-3. Define a structure, which includes year, month, day and time information. Then define a variable of this structure and initialize it.
+3. Define a structure, which includes year, month, day and time information(i.e. Hours, Minutes, Seconds). Then define a variable of this structure and initialize it.
 
 ## Programing Exercise
 
