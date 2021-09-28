@@ -44,8 +44,8 @@ If you want to know more about compiling with g++, click [here](https://courses.
    Enter the number of seconds: 31600000
    31600000 seconds = 365 days, 17 hours, 46 minutes, 40 seconds
 
-2. Write a program that asks the user to enter the number of **hours** as an **float value (use type float)** and that then displays the equivalent time in **hours, minutes, and seconds** (Ignore the fractional part of second). The output should look like this:
-   Enter the number of hours: 7.244
+2. Write a program that asks the user to enter the number of **hours** as an **float value (use type float)** and that then displays the equivalent time in **hours, minutes, and seconds** (Ignore the fractional part of second). The output should look like this:  
+   Enter the number of hours: 7.244  
    7.244 hours = 7 hours, 14 minutes, 38 seconds
 
 ## DO NOT FORGET TO COMMIT AND PUSH YOU CODE :)
