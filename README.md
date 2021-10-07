@@ -13,10 +13,18 @@ The tutorial will be a combination of online and offline, please make sure you h
 |**Before 10.8 23:59**  | DDL of your C++ assignment                              | N/A         |
 |**10.9 15:30-17:30**   | Offline session 2: Embedded: GPIO                       | Room 4504   |
 |10.13 - 10.19          | Finish Embedded video 2 (CAN & USART)                   | N/A         |
-|**10.16 15:30-17:30**  | Offline session 3: Embedded: USART                      | __**TBD**__ |
+|**10.16 15:30-17:30**  | Offline session 3: Embedded: USART                      | Room 2503 |
 |10.20 - 10.26          | Finish Embedded video 3 (PID)                           | N/A         |
 |**10.23 13:00-15:00**  | Offline session 4: Embedded: Turn On Motor              | Room 4504   |
-|**Before 10.26 23:59** | DDL of your Embedded demo assignment                    |  N/A        |
+|**Before 10.26 23:59** | DDL of your Embedded demo assignment                    | N/A        |
+
+Offline session 1: Git&C++:  
+[Info](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments/blob/master/OfflineTuto1.md)  
+[Recording](https://drive.google.com/file/d/18y9zGUAWk_Wck5rbOElfGbER6TuEUCTr/view?usp=sharing)  
+
+Offline session 2: Embedded: GPIO:   
+[Info](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments/blob/master/OfflineTuto2.md)
+
 
 ## 2. Update Notes
 9.25: Update environment set up and zoom QA session  
