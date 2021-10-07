@@ -8,7 +8,7 @@
    * GPIO
    * Timer
 3. **Mode of Delievery:** F2F + Zoom (mixed mode)
-4. **Location:** Room 4504 (Lift 25-26)
+4. **Location:** **Room 4504**
 5. **Zoom Link:** https://zoom.us/j/6557236807?pwd=UTEvR0tXeG83dTVaU0V2Q1VYY1VRUT09
 
 ## **Prerequisite**
