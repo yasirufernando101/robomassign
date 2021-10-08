@@ -3,7 +3,20 @@
 using namespace std;
 
 // function phototype
-bool arrayReverse(char* array, int start, int end);
+bool arrayReverse(char* array, int start, int end) {
+    if (start>end){
+        return false;
+    }
+
+    else{
+        for (int i=start;i<(start+end+1)/2;i++){
+            char temp=array[end-i];
+            array[end-i]=array[i];
+            array[i]=temp;
+        }
+    }
+
+}
 
 // the starting of program
 int main()
@@ -27,11 +40,4 @@ int main()
 
     // end of the program
     return 0;
-}
-
-/* Write your code under this line, you can define any helper function */
-bool arrayReverse(char* array, int start, int end) {
-    // return false if the start is larger than end
-    // otherwise reverse the array
-    return false;
 }
